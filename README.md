@@ -1,9 +1,9 @@
 # epai-session7
-##Help on module session7:
+## Help on module session7:
 
-###NAME - session7
+### NAME - session7
 
-###FUNCTIONS
+### FUNCTIONS
         
     add_even(input_list)
         Function to add all the even elements of a list using reduce
